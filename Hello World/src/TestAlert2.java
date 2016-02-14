@@ -6,6 +6,7 @@ public class TestAlert2 {
 		System.out.println("Alert 2!");
 		System.out.println("Alert 3!4!");
 		System.out.println("Alert 5!");
+		System.out.println("Alert 6!7!");
 	}
 
 }
